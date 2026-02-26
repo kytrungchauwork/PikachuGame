@@ -36,7 +36,7 @@ This project is a simulation of the classic Pikachu tile-matching game. It was d
 ## Author
 
 - **C.T.Ky** (Leader)
-- https://github.com/chauky2005
+- https://github.com/kytrungchauwork
 - **B.H.Thinh** (Main coder)
 
 ## License
